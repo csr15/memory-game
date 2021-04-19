@@ -4,7 +4,7 @@ const cors = require("cors");
 const mongoClient = require("mongodb").MongoClient;
 const { ObjectId } = require("mongodb");
 const mongoDBClusterURI =
-  "mongodb+srv://ragulcs:realme5pro@csr.bbcx8.mongodb.net/memory-game?retryWrites=true&w=majority";
+  "mongodb+srv://+++++++××××××++++++++retryWrites=true&w=majority";
 
 //Port Configuration
 const PORT = process.env.port || 8080;
